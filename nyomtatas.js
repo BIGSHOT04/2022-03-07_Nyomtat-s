@@ -10,14 +10,8 @@ function kalkulal(){
     //Megjelenítés
     document.getElementById('valasz').style.visibility = "visible";
 
+
     document.getElementById("koltseg").innerHTML = koltseg;
-
-
-function myFunction (gigachad)
-{
-    document.getElementById("koltseg").innerHTML = koltseg;
-
-}
 
 
 
