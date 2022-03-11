@@ -20,7 +20,7 @@ function myFunction (gigachad)
 
 
 
-    d
+    
 
 
 
